@@ -1,0 +1,5 @@
+ansible~=2.9
+bandit
+black
+pylint
+yamllint
